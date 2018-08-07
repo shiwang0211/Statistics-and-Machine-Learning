@@ -1,6 +1,12 @@
 # Time_Series_Practice
  Study time series and implementation in R
 
+## Statistical Tests.ipynb
+- Implement some statistical tests from scratch (e.g., likelihood test)
+
+## AB test.ipynb
+- AB test with `stats` package
+- AB test with `numpy` built from scratch
 
 ## Time Series Learn.ipynb
 <h1><span class="tocSkip"></span></h1>

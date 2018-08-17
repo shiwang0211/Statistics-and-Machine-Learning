@@ -17,16 +17,15 @@
 ## [Rider-Retention-Analysis.ipynb](https://github.com/shiwang0211/stats/blob/master/Rider-Retention-Analysis.ipynb)
 - Note: raw data is not included in the repo
 
-### 1. Data exploration and visualization
-- Aggregate data in different ways to investigate demand patterns and rider characteristics
+- Data exploration and visualization
+  * Aggregate data in different ways to investigate demand patterns and rider characteristics
 
-### 2. Experiment Design
-- Propose AB test plan to evaluate potential policy
+- Experiment Design
+  * Propose AB test plan to evaluate potential policy
 
-### 3. Predictive Modelling
-- Predict rider retention using the following models
-  - Logistic Regression
-  - Gradient Boosting Trees
+- Predictive Modelling
+  * Logistic Regression
+  * Gradient Boosting Trees
 
 ## [Time Series Learn.ipynb](https://github.com/shiwang0211/stats/blob/master/Time%20Series%20Learn.ipynb)
 <h1><span class="tocSkip"></span></h1>
